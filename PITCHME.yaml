@@ -1,5 +1,5 @@
 #テーマの設定
-theme : sky
+theme : moon
 
 #コードのシンタックスハイライトの設定
 highlight : monokai
@@ -14,7 +14,7 @@ loop : true
 
 
 #トランジションの設定
-transition : slide
+transition : convex
 
 
 #チャート / グラフ機能の設定
