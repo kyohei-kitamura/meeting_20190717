@@ -74,7 +74,7 @@
 +++
 
 ###  Twelve-Factor Applications
-- I. コードベース (Codebase)@size[2.5em]
+- I. コードベース (Codebase)@size2.5em
 - II. 依存関係 (Dependencies)
 - III. 設定 (Config)
 - IV. バックエンドサービス (Backing Services)
