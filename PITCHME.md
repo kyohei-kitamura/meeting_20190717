@@ -87,6 +87,8 @@
 - XI. ログ (Logs)
 - XII. 管理プロセス (Admin processes)
 
+@size[2.5em]
+
 ---
 
 I. コードベース (Codebase)
