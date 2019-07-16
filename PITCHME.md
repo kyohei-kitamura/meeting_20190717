@@ -93,22 +93,22 @@
 
 ---
 
-I. コードベース (Codebase)
+I. コードベース (Codebase)  
 - 1対1で管理
-II. 依存関係 (Dependencies)
+II. 依存関係 (Dependencies)  
 - 各サービス感は明示的に
-III. 設定 (Config)
+III. 設定 (Config)  
 - 環境差分はコードに含めず、環境変数として管理、設定
-IV. バックエンドサービス (Backing Services)
+IV. バックエンドサービス (Backing Services)  
 - DBなどの補助的なサービスはリソースとしてアタッチする
 
 +++
 
-VI. プロセス (Processes)
+VI. プロセス (Processes)  
 - ステートレスとすること
-IX. 廃棄容易性 (Disposability)
+IX. 廃棄容易性 (Disposability)  
 - ライフサイクルを考慮すること
-X. 開発/本番一致 (Dev/prod parity)
+X. 開発/本番一致 (Dev/prod parity)  
 - 同じ環境となるように
 
 ---
