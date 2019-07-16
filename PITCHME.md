@@ -74,18 +74,21 @@
 +++
 
 ###  Twelve-Factor Applications
-- @size[0.3em](I. コードベース)
-- @size[0.3em](II. 依存関係)
-- @size[0.3em](III. 設定)
-- @size[0.3em](IV. バックエンドサービス)
-- @size[0.3em](V. ビルド、リリース、ラン）
-- @size[0.3em](VI. プロセス)
-- @size[0.3em](VII. ポートバインディング)
-- @size[0.3em](VIII. 並行性)
-- @size[0.3em](IX. 廃棄容易性)
-- @size[0.3em](X. 開発/本番一致)
-- @size[0.3em](XI. ログ)
-- @size[0.3em](XII. 管理プロセス)
+- I. コードベース
+- II. 依存関係
+- III. 設定
+- IV. バックエンドサービス
+- V. ビルド、リリース、ラン
+- VI. プロセス
+
++++
+
+- VII. ポートバインディング
+- VIII. 並行性
+- IX. 廃棄容易性
+- X. 開発/本番一致
+- XI. ログ
+- XII. 管理プロセス
 
 ---
 
