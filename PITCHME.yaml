@@ -1,5 +1,5 @@
 #テーマの設定
-theme : night
+theme : beige
 
 #コードのシンタックスハイライトの設定
 highlight : monokai
@@ -14,7 +14,7 @@ loop : true
 
 
 #トランジションの設定
-transition : zoom
+transition : slide
 
 
 #チャート / グラフ機能の設定
