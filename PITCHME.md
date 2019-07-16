@@ -12,7 +12,7 @@
 プロビジョニングおよび解放できる  
 コンピューティング環境を意味します。  
 
-+++
+---
 
 ### Cloud Native の恩恵
 -1. リソース効率の向上により、少ないサーバーで同じ数のサービスが実行可能
@@ -27,7 +27,7 @@
 - Scale
 - Mobile Applications and Client Diversity
 
-+++
+---
 
 ### Speed
 - 場所による優位性の減少
@@ -49,7 +49,7 @@
 - Automated recovery
   - 
   
-+++
+---
 
 ###  Scale
 - システムの重要増加に伴い、マシンスペックを上げるなどで対応してきた
@@ -62,7 +62,7 @@
 
 ### Mobile Applications and Client Diversity
 
-+++
+---
 
 ## 2.Architectures
 - Twelve-Factor Applications
@@ -74,6 +74,20 @@
 +++
 
 ###  Twelve-Factor Applications
+- I. コードベース (Codebase)
+- II. 依存関係 (Dependencies)
+- III. 設定 (Config)
+- IV. バックエンドサービス (Backing Services)
+- V. ビルド、リリース、ラン（Build, release, run）
+- VI. プロセス (Processes)
+- VII. ポートバインディング (Port binding)
+- VIII. 並行性 (Concurrency)
+- IX. 廃棄容易性 (Disposability)
+- X. 開発/本番一致 (Dev/prod parity)
+- XI. ログ (Logs)
+- XII. 管理プロセス (Admin processes)
+
+---
 
 I. コードベース (Codebase)
 - 1 対 1で管理
@@ -100,7 +114,7 @@ XI. ログ (Logs)
 - stdoutにログを吐き出し、イベントストリーム
 XII. 管理プロセス (Admin processes)
 
-+++
+---
 
 ### Microservices
 - 機能の分割
@@ -113,7 +127,7 @@ XII. 管理プロセス (Admin processes)
 ### Self-Service Agile Infrastructure
 開発チームがアプリケーションおよびサービスの抽象化レベルで動作できるようにするクラウドプラットフォーム。インフラストラクチャレベルのスピード、安全性、および規模を提供します
 
-+++
+---
 
 ### API-Based Collaboration
 サービス間の対話を自動的に検証可能な契約として定義し、簡素化された統合作業によってスピードと安全性を可能にするアーキテクチャパターン。 
