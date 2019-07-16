@@ -1,3 +1,6 @@
+#テーマの設定
+theme : sky
+
 #コードのシンタックスハイライトの設定
 highlight : monokai
 
