@@ -11,7 +11,7 @@ loop : true
 
 
 #トランジションの設定
-transition : fade
+transition : slide
 
 
 #チャート / グラフ機能の設定
